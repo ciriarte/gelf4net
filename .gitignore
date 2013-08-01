@@ -25,4 +25,5 @@ TestResults
 *.userprefs
 packages/**/*
 binaries
-*testresult*
+*testresult*src/packages/
+/src/packages/
